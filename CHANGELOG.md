@@ -1,6 +1,7 @@
 # CHANGELOG for the ATG 10.1 Version of the Sparkred PayPal Integration Module
 
 ##	10.1-v2.1.12 - 2016-06-21
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.1-v2.1.12
 
 Removed mCheckoutProgressStates from CRSPayPalCardFormHandler - MSNSPRT-479
 

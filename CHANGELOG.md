@@ -1,4 +1,4 @@
-# CHANGELOG for the ATG 10.1 Version of the Sparkred PayPal Integration Module
+# CHANGELOG for the ATG 10.2 Version of the Sparkred PayPal Integration Module
 
 ##	10.1-v2.1.5 - 2016-06-21
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.2-v2.1.5

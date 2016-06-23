@@ -1,5 +1,11 @@
 # CHANGELOG for the ATG 11.2 Version of the Sparkred PayPal Integration Module
 
+##	11.2-v2.1.7 - 2016-06-23
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.2-v2.1.7
+
+Added source code for the ConfirmPayPalPaymentServlet to the src included in the module.
+
+
 ##	11.2-v2.1.6 - 2016-06-21
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.2-v2.1.6
 

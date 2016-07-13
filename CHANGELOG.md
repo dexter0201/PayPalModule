@@ -1,5 +1,11 @@
 # CHANGELOG for the ATG 11.2 Version of the Sparkred PayPal Integration Module
 
+##	11.2-v2.1.8 - 2016-07-13
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.2-v2.1.8
+
+Fixed a field name for getting the TransactionID to be saved in the PayPalStatus
+
+
 ##	11.2-v2.1.7 - 2016-06-23
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.2-v2.1.7
 

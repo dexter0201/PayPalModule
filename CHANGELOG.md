@@ -1,5 +1,12 @@
 # CHANGELOG for the ATG 11.1 Version of the Sparkred PayPal Integration Module
 
+##	11.1-v2.1.10 - 2016-07-15
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.1-v2.1.10
+
+https://github.com/sparkred-insight/PayPalModule/issues/10
+
+Improved Phone Number handing.
+
 
 ##	11.1-v2.1.9 - 2016-07-13
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG11.1-v2.1.9

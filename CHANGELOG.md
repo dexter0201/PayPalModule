@@ -1,6 +1,6 @@
 # CHANGELOG for the ATG 10.2 Version of the Sparkred PayPal Integration Module
 
-##	10.2-v2.1.9 - 2016-07-15
+##	10.2-v2.1.9 - 2016-08-01
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.2-v2.1.9
 
 Removed JDBC driver, which shouldn't have been bundled with the module.

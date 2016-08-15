@@ -1,5 +1,10 @@
 # CHANGELOG for the ATG 10.2 Version of the Sparkred PayPal Integration Module
 
+##	10.2-v2.1.10 - 2016-08-15
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.2-v2.1.10
+
+Added L_LONGMESSAGE0 to PayPayStatus.errorMessage when PayPal response is not Success.
+
 ##	10.2-v2.1.9 - 2016-08-01
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.2-v2.1.9
 

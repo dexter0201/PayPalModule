@@ -1,5 +1,10 @@
 # CHANGELOG for the ATG 10.1 Version of the Sparkred PayPal Integration Module
 
+##	10.1-v2.1.19 - 2016-10-12
+https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.1-v2.1.19
+
+Fixing a bug that made PayPalInfo.getCurrencyCode() result in a null value.
+
 ##	10.1-v2.1.17 - 2016-08-15
 https://github.com/sparkred-insight/PayPalModule/releases/tag/ATG10.1-v2.1.17
 

@@ -1,9 +1,7 @@
 # PayPalModule
 Sparkred ATG Oracle Commerce PayPal Integration
 
-You can download Releases here - https://github.com/sparkred-insight/PayPalModule/releases  (they are not in order as I can't figure out how to make GitHub releases order themselves by creation date when there aren't backing branches/commits).
-
-Read the Changelogs here:
+Read the Changelogs and Download the releases here:
 
 [ATG 10.1](https://github.com/sparkred-insight/PayPalModule/blob/release/10.1/CHANGELOG.md)
 
